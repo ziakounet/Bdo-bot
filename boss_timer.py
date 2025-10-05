@@ -6,7 +6,7 @@ import re
 import requests
 
 CSS_PATH = "bosstimer.css" # Ton fichier CSS/tableau
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/xxxx/yyyy" # Mets le vrai lien
+DISCORD_WEBHOOK_URL = "https://discord.com/oauth2/authorize?client_id=1424345460302413885" # Mets le vrai lien
 
 def parse_css_schedule(path):
     schedule = dict()
