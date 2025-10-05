@@ -1,0 +1,88 @@
+/*
+======== Boss Mondiaux BDO EU ========
+
+Format : boss[jour][heure][minute]
+
+--- LUNDI ---
+00:15 : Karanda, Kutum, Uturi
+02:00 : Karanda, Bulgasal
+05:00 : Kzarka
+09:00 : Kzarka
+12:00 : Offin
+14:00 : Garmoth
+16:00 : Kutum, Uturi
+19:00 : Nouver, Golden Pig King, Bulgasal
+22:15 : Kzarka, Sangoon, Uturi
+23:15 : Garmoth
+
+--- MARDI ---
+00:15 : Karanda, Golden Pig King
+02:00 : Kutum, Sangoon
+05:00 : Kzarka
+09:00 : Nouver
+12:00 : Kutum
+14:00 : Garmoth
+16:00 : Nouver, Golden Pig King
+19:00 : Karanda, Bulgasal, Uturi
+22:15 : Quint, Muraka, Golden Pig King, Sangoon
+23:15 : Garmoth
+
+--- MERCREDI ---
+00:15 : Kzarka, Kutum, Bulgasal
+02:00 : Karanda, Golden Pig King
+05:00 : Kzarka
+09:00 : Karanda
+12:00 : Nouver
+14:00 : Garmoth
+16:00 : Kutum, Offin, Bulgasal
+19:00 : Vell
+22:15 : Karanda, Kzarka, Sangoon, Uturi
+23:15 : Garmoth
+
+--- JEUDI ---
+00:15 : Nouver, Bulgasal
+02:00 : Kutum, Sangoon
+05:00 : Nouver
+09:00 : Kutum
+12:00 : (aucun boss)
+14:00 : Garmoth
+16:00 : Kzarka, Uturi
+19:00 : Kutum, Sangoon, Bulgasal
+22:15 : Quint, Muraka, Golden Pig King, Uturi
+23:15 : Garmoth
+
+--- VENDREDI ---
+00:15 : Karanda, Kzarka, Sangoon
+02:00 : Nouver, Bulgasal
+05:00 : Karanda
+09:00 : Kutum
+12:00 : Karanda
+14:00 : Garmoth
+16:00 : Nouver, Uturi
+19:00 : Kzarka, Golden Pig King
+22:15 : Kzarka, Kutum, Bulgasal, Uturi
+23:15 : Garmoth
+
+--- SAMEDI ---
+00:15 : Karanda, Golden Pig King, Sangoon
+02:00 : Offin, Golden Pig King, Bulgasal
+05:00 : Nouver
+09:00 : Kutum
+12:00 : Nouver
+14:00 : Garmoth
+16:00 : Uturi, Golden Pig King
+19:00 : Karanda, Kzarka, Bulgasal, Sangoon
+
+--- DIMANCHE ---
+00:15 : Nouver, Kutum, Golden Pig King, Uturi
+02:00 : Kzarka, Sangoon, Bulgasal
+05:00 : Kutum
+09:00 : Nouver
+12:00 : Kzarka
+14:00 : Garmoth
+16:00 : Vell
+19:00 : Garmoth
+19:15 : Kzarka, Nouver, Golden Pig King, Sangoon
+22:15 : Garmoth
+
+*/
